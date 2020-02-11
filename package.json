@@ -1,0 +1,19 @@
+{
+  "name": "@lundiak/marzena",
+  "version": "0.0.1",
+  "description": "UI Library In My Dreams - experimental repository to represent a few variants of UI library as platform of shared UI components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alundiak/marzena.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alundiak/marzena/issues"
+  },
+  "homepage": "https://github.com/alundiak/marzena#readme"
+}
