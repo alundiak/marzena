@@ -1,0 +1,90 @@
+.light {
+    padding: 50px;
+    background: rgba(189,189,189,0.30);
+}
+
+.dark {
+    padding: 50px;
+    background: #303030;
+}
+
+.flat, .raised {
+    font-family: Roboto-Medium;
+    font-size: 12px;
+    color: rgba(0,0,0,0.54);
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 16px;
+
+    padding: 10px;
+}
+
+.normal.flat {
+    border-radius: 2px;
+    font-family: Roboto-Medium;
+    font-size: 14px;
+    color: #009688;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.normal.raised {
+    background: #009688;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,0.12), 0 2px 2px 0 rgba(0,0,0,0.24);
+    border-radius: 2px;
+    font-family: Roboto-Medium;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+
+.pressed.flat {
+    background: rgba(153,153,153,0.20);
+    border-radius: 2px;
+    font-family: Roboto-Medium;
+    font-size: 14px;
+    color: #009688;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.pressed.raised {
+    background: #009688;
+    background: rgba(189,189,189,0.30);
+    /* Sketch doesnt export gradient borders at this point */
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.12), 0 8px 8px 0 rgba(0,0,0,0.24);
+    border-radius: 2px;
+    font-family: Roboto-Medium;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.disabled {
+    border-radius: 2px;
+    font-family: Roboto-Medium;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.light .disabled.flat {
+    color: rgba(0,0,0,0.26);
+}
+
+.dark .disabled.flat {
+    color: rgba(255,255,255,0.30);
+}
+
+.light .disabled.raised {
+    background: rgba(79,79,79,0.26);
+    color: rgba(0,0,0,0.26);
+}
+
+.dark .disabled.raised {
+    background: rgba(204,204,204,0.12);
+    color: rgba(255,255,255,0.30);
+}

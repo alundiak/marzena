@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="912px" height="744px" viewBox="0 0 912 744" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>dialogs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="95%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="4.9360058%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="280" height="248" rx="2"></rect>
+        <filter x="-17.1%" y="-19.4%" width="134.3%" height="148.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="24" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.22 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="95%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="4.9360058%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-7" x="0" y="0" width="280" height="256" rx="2"></rect>
+        <filter x="-17.1%" y="-18.8%" width="134.3%" height="146.9%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="24" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.22 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="95%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="4.9360058%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-11" x="0" y="0" width="640" height="200" rx="2"></rect>
+        <filter x="-7.5%" y="-24.0%" width="115.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="24" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.22 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Material-Design-Stickersheet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sheet" transform="translate(-2264.000000, -2066.000000)" fill="#FFFFFF">
+            <rect id="sheet-bg" x="0" y="0" width="5440" height="6474"></rect>
+        </g>
+        <g id="components" transform="translate(-1033.000000, -1301.000000)">
+            <g id="dialogs" transform="translate(1033.000000, 1298.000000)">
+                <rect id="bg" fill="#EEEEEE" x="0" y="41" width="912" height="706"></rect>
+                <text id="Dialogs" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400" line-spacing="16" fill="#444444">
+                    <tspan x="0" y="12">Dialogs</tspan>
+                </text>
+                <text id="Desktop" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400" line-spacing="16" fill="#444444">
+                    <tspan x="136" y="93">Desktop</tspan>
+                </text>
+                <text id="Without-title" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400" line-spacing="16" fill="#444444">
+                    <tspan x="136" y="396">Without title</tspan>
+                </text>
+                <text id="With-title" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400" line-spacing="16" fill="#444444">
+                    <tspan x="496" y="396">With title</tspan>
+                </text>
+                <g id="dialog" transform="translate(496.000000, 425.000000)">
+                    <g id="dialog-bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <rect stroke="url(#linearGradient-1)" stroke-width="0.5" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.25" y="0.25" width="279.5" height="247.5" rx="2"></rect>
+                        <rect stroke="url(#linearGradient-2)" stroke-width="0.5" stroke-linejoin="square" x="0.25" y="0.25" width="279.5" height="247.5" rx="2"></rect>
+                    </g>
+                    <g id="buttons" transform="translate(0.000000, 196.000000)">
+                        <rect id="button-strip-bounds" x="0" y="0" width="280" height="52"></rect>
+                        <g id="accept" transform="translate(198.000000, 8.000000)">
+                            <rect id="button-bounds" x="0" y="0" width="74" height="36" rx="2"></rect>
+                            <text id="BUTTON" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#009688">
+                                <tspan x="8.26220703" y="24">BUTTON</tspan>
+                            </text>
+                        </g>
+                        <g id="decline" transform="translate(115.000000, 8.000000)">
+                            <rect id="button-bounds" x="0" y="0" width="75" height="36" rx="2"></rect>
+                            <text id="BUTTON" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#009688">
+                                <tspan x="9.26220703" y="24">BUTTON</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="Permissions" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" line-spacing="28" fill="#000000" fill-opacity="0.87">
+                        <tspan x="24" y="40">Permissions</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="24" fill="#000000" fill-opacity="0.541326993">
+                        <tspan x="24" y="76">Lorem ipsum dolor sit amet, </tspan>
+                        <tspan x="24" y="100">consectetur adipisicing elit, sed </tspan>
+                        <tspan x="24" y="124">do eiusmod tempor incididunt ut </tspan>
+                        <tspan x="24" y="148">labore et dolore magna wirl </tspan>
+                        <tspan x="24" y="172">aliqua. Up exlaborum incididunt.</tspan>
+                    </text>
+                </g>
+                <g id="dialog" transform="translate(136.000000, 425.000000)">
+                    <g id="dialog-bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <rect stroke="url(#linearGradient-5)" stroke-width="0.5" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.25" y="0.25" width="279.5" height="255.5" rx="2"></rect>
+                        <rect stroke="url(#linearGradient-6)" stroke-width="0.5" stroke-linejoin="square" x="0.25" y="0.25" width="279.5" height="255.5" rx="2"></rect>
+                    </g>
+                    <g id="buttons" transform="translate(0.000000, 204.000000)">
+                        <rect id="button-strip-bounds" x="0" y="0" width="280" height="52"></rect>
+                        <g id="accept" transform="translate(198.000000, 8.000000)">
+                            <rect id="button-bounds" x="0" y="0" width="74" height="36" rx="2"></rect>
+                            <text id="BUTTON" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#009688">
+                                <tspan x="8.26220703" y="24">BUTTON</tspan>
+                            </text>
+                        </g>
+                        <g id="decline" transform="translate(115.000000, 8.000000)">
+                            <rect id="button-bounds" x="0" y="0" width="75" height="36" rx="2"></rect>
+                            <text id="BUTTON" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#009688">
+                                <tspan x="9.26220703" y="24">BUTTON</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="Lorem-ipsum-dolor-si" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="24" fill="#000000" fill-opacity="0.541326993">
+                        <tspan x="24" y="36">Lorem ipsum dolor sit amet, </tspan>
+                        <tspan x="24" y="60">consectetur adipisicing elit, sed </tspan>
+                        <tspan x="24" y="84">do eiusmod tempor incididunt ut </tspan>
+                        <tspan x="24" y="108">labore et dolore magna wirl </tspan>
+                        <tspan x="24" y="132">aliqua. Ut enim ad minim ikad </tspan>
+                        <tspan x="24" y="156">veniam, quis nostrud exercitatn </tspan>
+                        <tspan x="24" y="180">ullamco laboris nisi ut aliquip.</tspan>
+                    </text>
+                </g>
+                <g id="dialog" transform="translate(136.000000, 121.000000)">
+                    <g id="dialog-bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <rect stroke="url(#linearGradient-9)" stroke-width="0.5" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.25" y="0.25" width="639.5" height="199.5" rx="2"></rect>
+                        <rect stroke="url(#linearGradient-10)" stroke-width="0.5" stroke-linejoin="square" x="0.25" y="0.25" width="639.5" height="199.5" rx="2"></rect>
+                    </g>
+                    <g id="buttons" transform="translate(0.000000, 148.000000)">
+                        <rect id="bounds" x="0" y="0" width="640" height="52"></rect>
+                        <g id="accept" transform="translate(560.000000, 8.000000)">
+                            <rect id="button-bounds" x="0" y="0" width="72" height="36" rx="2"></rect>
+                            <text id="ACCEPT" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#009688">
+                                <tspan x="8.09277344" y="23.7666016">ACCEPT</tspan>
+                            </text>
+                        </g>
+                        <g id="decline" transform="translate(476.000000, 8.000000)">
+                            <rect id="button-bounds" x="0" y="0" width="76" height="36" rx="2"></rect>
+                            <text id="Decline" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#009688">
+                                <tspan x="8.45719609" y="23.5156">DECLINE</tspan>
+                            </text>
+                        </g>
+                        <g id="more-info" transform="translate(16.000000, 8.000000)">
+                            <rect id="button-bounds" x="0" y="0" width="94" height="36" rx="2"></rect>
+                            <text id="More-Info" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#009688">
+                                <tspan x="8.09570312" y="24">MORE INFO</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="Permissions" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" line-spacing="28" fill="#000000" fill-opacity="0.87">
+                        <tspan x="24" y="40">Permissions</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="24" fill="#000000" fill-opacity="0.541326993">
+                        <tspan x="24" y="76">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod </tspan>
+                        <tspan x="24" y="100">tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim </tspan>
+                        <tspan x="24" y="124">veniam, quis nostrud exercitation ullamco laboris nisinuli.</tspan>
+                    </text>
+                    <g id="Material/Icons-white/close" transform="translate(592.000000, 24.000000)" fill="#FFFFFF">
+                        <polygon id="Shape" points="19 6.4 17.6 5 12 10.6 6.4 5 5 6.4 10.6 12 5 17.6 6.4 19 12 13.4 17.6 19 19 17.6 13.4 12"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
