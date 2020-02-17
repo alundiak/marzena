@@ -12,12 +12,18 @@ So this repo represents such versions, at least for information.
 # V1 - Lightweight Version
 
 - Codebase is `monorep`o. Because it's not expected much of logic change, much of variety of features. UI library is simply VIEW of your DATA, and you CONTROL how and where to put it on your web page.
-- `Styling` fo UI components developed strictly in `CSS/SCSS/LESS` and it's expected to NOT have hacks, overrides, harmfully towards component itself.
+- `Styling` fo UI components developed in `SCSS/LESS` but bundled in `CSS` only. Because it's expected to NOT have hacks, overrides, harmfully towards component itself. Just usage.
 - Packaged as single file with set of CSS code for UI/HTML/React components look-n-feel.
 - Any JavaScript or minimal logic bundled as separate JavaScript or TypeScript file(s).
-- But customization or extend is possible, using `themization` or branding. So that every customer would have their set of files ON TOP of basic design. And if anything changed in main design it should not reflect Branding and vs. Potentially JSS or Styled COponents is allowed. TBD.
+- But customization or extend is possible, using `themization` or branding. So that every customer would have their set of files ON TOP of basic design. And if anything changed in main design it should not reflect Branding and vs. Potentially JSS or Styled Components is allowed. TBD.
 - Whole repo contains one common `tests` and `storybook` folders.
 - `Ideally`, would be great to have Designers team with at least one UI developer, who could extract CSS from InVision/Sketch/PhotoShop/etc software and convert to CSS files and pushed to repo. Then Business related UI development team, just upgrades CSS file with latest Design changes to their codebase, and doesn't change but just use. They can change logic of their components, or logic in the wrappers around shared UI components, but changing of design should be strictly forbidden.
+
+## V1 alternative.
+
+Reusing Bootstrap or Semantic UI as example of possible reusage of basic components layout and customization for LOB/Business with further upgrades and customizations.
+
+Or BEM-based stub. https://en.bem.info/libraries/classic/bem-core/4.2.0/ + https://github.com/bem/project-stub
 
 
 # V2 - Complex Version
@@ -29,6 +35,7 @@ So this repo represents such versions, at least for information.
 - Bundled as CommonJS/AMD or any else modern approach but for proper Component-based architecture of web application based on JavaScript/TypeScript/React/Angular.
 - Maybe: Should be exported as universal code with no dependency on main development technology.
 - `Ideally`, designers work on initial design, and later Business can suggest some features, taken from another LOB to be common/shared.
+
 
 
 # Comparison
