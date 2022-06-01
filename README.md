@@ -15,7 +15,7 @@ So this repo represents such versions, at least for information.
 - `Styling` fo UI components developed strictly in `CSS/SCSS/LESS` and it's expected to NOT have hacks, overrides, harmfully towards component itself.
 - Packaged as single file with set of CSS code for UI/HTML/React components look-n-feel.
 - Any JavaScript or minimal logic bundled as separate JavaScript or TypeScript file(s).
-- But customization or extend is possible, using `themization` or branding. So that every customer would have their set of files ON TOP of basic design. And if anything changed in main design it should not reflect Branding and vs. Potentially JSS or Styled COponents is allowed. TBD.
+- But customization or extend is possible, using `themization` or branding. So that every customer would have their set of files ON TOP of basic design. And if anything changed in main design it should not reflect Branding and vs. Potentially JSS or Styled Components is allowed. TBD.
 - Whole repo contains one common `tests` and `storybook` folders.
 - `Ideally`, would be great to have Designers team with at least one UI developer, who could extract CSS from InVision/Sketch/PhotoShop/etc software and convert to CSS files and pushed to repo. Then Business related UI development team, just upgrades CSS file with latest Design changes to their codebase, and doesn't change but just use. They can change logic of their components, or logic in the wrappers around shared UI components, but changing of design should be strictly forbidden.
 
@@ -36,3 +36,16 @@ So this repo represents such versions, at least for information.
 - Independence: more in V1
 - Maintenance: easier in V1
 - Customization: easier in V1, but more flexible in V2.
+
+
+# V3 Web Components-based
+- https://github.com/webcomponents/gold-standard/wiki
+- https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103
+- https://github.com/mateusortiz/webcomponents-the-right-way
+- https://github.com/nepaul/awesome-web-components
+- https://retool.com/blog/react-component-libraries/ - React based frameworks
+
+
+# V4 AGCT
+- https://www.geeksforgeeks.org/dna-protein-python-3/
+-
